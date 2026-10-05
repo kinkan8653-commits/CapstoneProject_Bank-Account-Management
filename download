@@ -1,0 +1,11 @@
+# Compiled executables
+bank_system
+*_test
+
+# Generated log/data files
+logs/*.log
+data/*.csv
+data/*.txt
+
+# Temporary files
+*.o
